@@ -11,13 +11,11 @@ Esta es una aplicación desarrollada con React que permite a los usuarios:
 
 - 📑 Tabla de Contenidos
 
-- Vista Previa 🎥
+- 🎥 Vista Previa 
 
 ## Características Principales ✨
 
-Formulario de Reservas:
-
-- ✨ Características Principales
+- ✨ Formulario de Reservas.
 
 - 🔍 Navegación entre vistas con react-router-dom.
 
@@ -47,8 +45,7 @@ git clone https://github.com/karensalazar3/Ejercicio-ReactForm
 # 🔄 Uso
 
 # Formulario de Reservas:
-
-- Completa los campos:
+Completa los campos:
 
 - Nombre
 - Fecha
